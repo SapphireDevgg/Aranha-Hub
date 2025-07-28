@@ -417,6 +417,18 @@ Placeholder="#999999",
 Background="#101010",
 Button="#52525b",
 Icon="#a1a1aa",
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 },
 Light={
 Name="Light",
@@ -428,17 +440,6 @@ Placeholder="#777777",
 Background="#e4e4e7",
 Button="#18181b",
 Icon="#52525b",
-},
-Spiderman = {
-  Name = "Spiderman",
-  Accent = "#ff0000",
-  Dialog = "#1a1a1a",
-  Outline = "#ffffff",
-  Text = "#ffffff",
-  Placeholder = "#ff6666",
-  Background = "#0d0d0d",
-  Button = "#cc0000",
-  Icon = "#ff4d4d",
 },
 Rose={
 Name="Rose",
@@ -1902,6 +1903,18 @@ return{
 __type=e.__type,
 value=e.Default:ToHex(),
 transparency=e.Transparency or nil,
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end,
 Load=function(e,f)
@@ -1915,6 +1928,18 @@ Save=function(e)
 return{
 __type=e.__type,
 value=e.Value,
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end,
 Load=function(e,f)
@@ -1928,6 +1953,18 @@ Save=function(e)
 return{
 __type=e.__type,
 value=e.Value,
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end,
 Load=function(e,f)
@@ -1941,6 +1978,18 @@ Save=function(e)
 return{
 __type=e.__type,
 value=e.Value,
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end,
 Load=function(e,f)
@@ -1954,6 +2003,18 @@ Save=function(e)
 return{
 __type=e.__type,
 value=e.Value.Default,
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end,
 Load=function(e,f)
@@ -1967,6 +2028,18 @@ Save=function(e)
 return{
 __type=e.__type,
 value=e.Value,
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end,
 Load=function(e,f)
@@ -4614,6 +4687,18 @@ return{
 R=math.floor(K.R*255),
 G=math.floor(K.G*255),
 B=math.floor(K.B*255)
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end
 
@@ -4899,6 +4984,18 @@ Callback=ab.Callback or function()end,
 Window=ab.Window,
 Transparency=ab.Transparency,
 UIElements={}
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 
 local s=true
@@ -5768,6 +5865,18 @@ Input="text-cursor-input",
 Dropdown="chevrons-up-down",
 Code="terminal",
 Colorpicker="palette",
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }end function a.E()
 game:GetService"UserInputService"
 
@@ -6146,6 +6255,18 @@ Title=y.Title,
 Desc=y.Desc,
 Original=y,
 __type=y.__type
+Spiderman = {
+  Name = "Spiderman",
+  Accent = "#ff0000",
+  Dialog = "#1a1a1a",
+  Outline = "#ffffff",
+  Text = "#ffffff",
+  Placeholder = "#ff6666",
+  Background = "#0d0d0d",
+  Button = "#cc0000",
+  Icon = "#ff4d4d",
+},
+
 }
 end
 end
